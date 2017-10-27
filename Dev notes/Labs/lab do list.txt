@@ -1,0 +1,4 @@
+AWS Console
+BIlling
+AMI-- creating EC2 instances and connecting instances to GIT bash
+IAM 

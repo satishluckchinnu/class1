@@ -1,0 +1,14 @@
+Assaignments:
+1)IAM
+create a user 
+customize link name with Amar
+Create user named Amar and give access to only to EC2 read only
+send link  ----------DONE
+2) Create an RDS instance and connect from EC2 instance
+3) Create a github repository and put some files to that Github repository
+send Github Repository URL's on my name.
+*********************
+
+
+
+

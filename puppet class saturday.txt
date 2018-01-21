@@ -1,0 +1,22 @@
+git
+svn
+jenkins
+maven
+deploy tool: puppet,chef ,ansible
+agent is node
+master is puppet
+server is called puppetmaster
+client is called node or puppet
+puppet is actually on Ruby.
+installation, Configuration.
+puppet master is only on master
+agent can connect from aws, or windows
+after load balencer,deploy session step 
+****
+centOs --puppet master
+cento57_ agent
+
+**
+
+
+
